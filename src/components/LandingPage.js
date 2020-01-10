@@ -23,7 +23,7 @@ export default class LandingPage extends Component {
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
                                 {/* LinkedIn*/}
-                                <a href="https://www.linkedin.com/in/hema-gunti-78b21253/" rel="noopener no referrer" target="_blank">
+                                <a href="https://twitter.com/HGunti" rel="noopener no referrer" target="_blank">
                                     <i className="fa fa-twitter-square" aria-hidden="true" />
                                 </a>
                                 {/* LinkedIn*/}
